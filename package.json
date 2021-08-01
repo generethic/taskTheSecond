@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "<Add you name and surname here>",
+  "license": "ISC",
+  "dependencies": {}
+}
